@@ -1,6 +1,4 @@
-# Panduan Binary AITF Engine
-
-Dokumen ini berisi panduan **khusus penggunaan binary** di Windows, Linux, dan macOS.
+# Panduan Penggunaan AITF Crawler Engine
 
 ## 1. Instalasi (Dependencies)
 
@@ -61,7 +59,7 @@ Contoh dengan keyword dari file `daftar_keyword.txt` (default --keyword-type=key
 
 Mode Crawling Images:
 ```bash
-./aitf-engine crawl -k "Rumah rusak" --search-image-mode=True --token={YOUR_TOKEN}
+./aitf-engine crawl --search-image-mode=True --token={YOUR_TOKEN}
 ```
 
 ## 4. Extract Text
