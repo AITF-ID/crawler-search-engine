@@ -1,7 +1,5 @@
 # Panduan Penggunaan AITF Crawler Engine
 
-Dokumen ini berisi panduan **khusus penggunaan binary** di Windows, Linux, dan macOS.
-
 ## 1. Instalasi (Dependencies)
 
 ### Windows 10/11 (PowerShell)
