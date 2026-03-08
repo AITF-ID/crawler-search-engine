@@ -59,7 +59,7 @@ Contoh dengan keyword dari file `daftar_keyword.txt` (default --keyword-type=key
 
 Mode Crawling Images:
 ```bash
-./aitf-engine crawl -k "Rumah rusak" --search-image-mode=True --token={YOUR_TOKEN}
+./aitf-engine crawl --search-image-mode=True --token={YOUR_TOKEN}
 ```
 
 ## 4. Extract Text
