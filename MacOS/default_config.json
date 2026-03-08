@@ -1,0 +1,16 @@
+{
+  "parallel": 3,
+  "parallel_tab_each": 0,
+  "keywords": [],
+  "keywords_file": "daftar_keyword.txt",
+  "keyword_type": "keywords_file",
+  "activate_super_mode": false,
+  "user_agent_file": "user-agent-list.csv",
+  "incognito": true,
+  "headless": false,
+  "auto_recrawl": true,
+  "remote_driver_url": null,
+  "search_image_mode": false,
+  "getting_url_img_search_minimal": 20,
+  "unique_url_output": true
+}
